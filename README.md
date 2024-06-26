@@ -34,4 +34,4 @@ O projeto pretende apresentar de maneira didática a implementação da **forma 
 **Corrente Elétrica Criada**
 
 ## Referências
-[**Artigo CBA2016**]
+[**Artigo CBA2016**](https://github.com/fariaswp/correnteEletrica/blob/main/CBA2016-1059.pdf)
